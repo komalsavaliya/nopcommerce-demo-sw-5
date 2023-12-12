@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LoginPageTest"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.269">
+  <properties />
+  
+  
+            <testcase name="userShouldNavigateToLoginPageSuccessFully" time="2.429" classname="com.nopcommerce.demo.testsuite.LoginPageTest" />
+                <testcase name="verifyTheErrorMessageWithInValidCredentials" time="0.840" classname="com.nopcommerce.demo.testsuite.LoginPageTest" />
+      
+</testsuite>

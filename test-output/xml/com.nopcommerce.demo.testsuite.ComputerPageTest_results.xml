@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LoginPageTest"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.125">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToDesktopsPageSuccessfully" time="0.655" classname="com.nopcommerce.demo.testsuite.ComputerPageTest" />
+                <testcase name="verifyUserShouldNavigateToComputerPageSuccessfully" time="0.470" classname="com.nopcommerce.demo.testsuite.ComputerPageTest" />
+      
+</testsuite>
